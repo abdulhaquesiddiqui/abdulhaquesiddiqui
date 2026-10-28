@@ -4,7 +4,7 @@ Year 13 student studying Maths, Further Maths and Computer Science, aiming for a
 
 ## Summary
 
-- Completed the Zero To Mastery Complete AI, Machine Learning and Data Science course, including three end-to-end ML projects.
+- Completed the Zero To Mastery Complete: AI, Machine Learning and Data Science course, including three end-to-end ML projects.
 - Built and compared classification, regression and deep learning models using scikit-learn and TensorFlow.
 - Focused on doing ML properly: avoiding data leakage, cross-validation, and choosing metrics that fit the problem (e.g. recall for medical data).
 
