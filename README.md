@@ -23,7 +23,7 @@ Year 13 student studying Maths, Further Maths and Computer Science, aiming for a
 
 Python, NumPy, pandas, scikit-learn, TensorFlow/Keras, Matplotlib, Jupyter
 
-## Contact
+## Additional Profiles
 
 - LinkedIn: [linkedin.com/in/abdulhaquesiddiqui](https://www.linkedin.com/in/abdulhaquesiddiqui/)
 - GitHub: [github.com/abdulhaquesiddiqui](https://github.com/abdulhaquesiddiqui)
